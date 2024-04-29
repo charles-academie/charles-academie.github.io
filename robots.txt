@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://charles-academie.fr/sitemap-index.xml
